@@ -1,0 +1,4 @@
+#Tue Oct 20 22:13:54 MSK 2026
+base.0=D\:\\Artem\\work\\PasswordManager\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

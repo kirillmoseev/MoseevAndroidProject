@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\Artem\work\PasswordManager\app"
+    name=":app"
+    type="APP"
+    maven="PasswordManager:app:"
+    agpVersion="8.1.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\stav\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\stav\AppData\Local\Android\Sdk\build-tools\33.0.1\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
